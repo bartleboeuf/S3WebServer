@@ -1,0 +1,5 @@
+---
+port: "8000"
+s3bucket: "website-static"
+awsRegion: "eu-west-1"
+homepage: "index.html"
